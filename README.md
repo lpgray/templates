@@ -7,4 +7,4 @@ All my code templates, for coding easily.
 
 ## JavaScript
 
-* [Global Pattern](js/globalComponent.js)
+* [Global Pattern](js/GlobalComponent.js)
