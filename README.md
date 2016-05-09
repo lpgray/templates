@@ -1,2 +1,10 @@
 # templates
-All my code templates.
+All my code templates, for coding easily.
+
+## HTML
+
+* [Mobile HTML](html/mobile.html)
+
+## JavaScript
+
+* [Global Pattern](js/globalComponent.js)
